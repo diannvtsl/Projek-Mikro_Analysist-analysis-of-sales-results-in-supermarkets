@@ -5,6 +5,8 @@
 #Mente Assigment from IBM Advance AI @Infinite Learning project Analisist of sales of sales results in Supermarket by : Kagggle
 #Mente info 
 #Name : Dian Novita Sinambela 
+        Al Baiq Dara
+        Divaza Almanda
 #Program : IBM Advance AI
 
 Tech Stack : . python 
